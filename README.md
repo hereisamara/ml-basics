@@ -14,7 +14,7 @@ Each notebook is structured with **theory, code examples, visualizations, and in
 | 📅 Day | 📂 Topic | 📄 Notebook |
 |--------|---------|------------|
 | ✅ Day 1 | Introduction to ROC Curves | [ROC.ipynb](ROC.ipynb) |
-| 🔄 Day 2 | [Upcoming Topic] | _To be added_ |
+| ✅ Day 2 | L1 L2 Regularization | [L1L2.ipynb](L1L2.ipynb)  |
 | 🔄 Day 3 | [Upcoming Topic] | _To be added_ |
 
 _(The list will be updated daily!)_
