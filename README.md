@@ -16,7 +16,8 @@ Each notebook is structured with **theory, code examples, visualizations, and in
 | ✅ Day 1 | Introduction to ROC Curves | [ROC.ipynb](ROC.ipynb) |
 | ✅ Day 2 | L1 L2 Regularization | [L1L2.ipynb](L1L2.ipynb)  |
 | ✅ Day 3 | Loss Funtions | [Loss.ipynb](Loss.ipynb) |
-| 🔄 Day 4 | [Upcoming Topic] | _To be added_ |
+| ✅ Day 4 | Self-organizing Map from scratch | [SOM.ipynb](SOM.ipynb) |
+| 🔄 Day 5 | [Upcoming Topic] | _To be added_ |
 
 _(The list will be updated daily!)_
 
