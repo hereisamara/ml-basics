@@ -19,9 +19,8 @@ Each notebook is structured with **theory, code examples, visualizations, and in
 | ✅ Day 4 | Self-organizing Map from scratch | [SOM.ipynb](SOM.ipynb) |
 | ✅ Day 5 | Self-supervised Learning: Contrastive Learning - SimCLR | [SSL_SimCLR.ipynb](SSL_SimCLR.ipynb) |
 | ✅ Day 6 | Understanding ML Backbone and Different Heads | [Understanding_ML_Backbone_and_Different_Heads.ipynb](Understanding_ML_Backbone_and_Different_Heads.ipynb) |
-| 🔄 Day 7 | [Upcoming Topic] | _To be added_ |
-
-_(The list will be updated daily!)_
+| ✅ Day 7 | RNN_LSTM_HandsOn_Notebook | [RNN_LSTM_HandsOn_Notebook.ipynb](RNN_LSTM_HandsOn_Notebook.ipynb) |
+| 🔄 Day 8 | new topics | _To be added_ |
 
 
 ## 💡 **Why I'm Doing This**
